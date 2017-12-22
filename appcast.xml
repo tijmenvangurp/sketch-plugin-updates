@@ -15,7 +15,7 @@
         ]]>
       </description>
       <pubDate>Fri Dec 22 15:26:00 EDT 2017</pubDate>
-      <enclosure url="https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/browse/archive/1.0.0.zip" type="application/octet-stream" sparkle:version="1.0.0"/>
+      <enclosure url="https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/browse/raw/archive/1.0.0.zip" type="application/octet-stream" sparkle:version="1.0.0"/>
     </item>
     <item>
       <title>Version 0.0.2</title>
@@ -27,7 +27,7 @@
         ]]>
       </description>
       <pubDate>Fri Dec 22 15:26:00 EDT 2017</pubDate>
-      <enclosure url="https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/browse/archive/0.2.zip" type="application/octet-stream" sparkle:version="0.0.2"/>
+      <enclosure url="https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/browse/raw/archive/0.2.zip" type="application/octet-stream" sparkle:version="0.0.2"/>
     </item>
     <item>
       <title>Version 0.1</title>
@@ -39,7 +39,7 @@
         ]]>
       </description>
       <pubDate>Fri Dec 22 15:00:00 EDT 2017</pubDate>
-      <enclosure url="https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/browse/archive/0.1.zip" type="application/octet-stream" sparkle:version="0.0.1"/>
+      <enclosure url="https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/browse/raw/archive/0.1.zip" type="application/octet-stream" sparkle:version="0.0.1"/>
     </item>
   </channel>
 </rss>
