@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>sDLS recolor Plugin</title>
+    <link>https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/raw/appcast.xml</link>
+    <description>Use this plugin to apply correct themeing to building blocks</description>
+    <language>en</language>
+        <item>
+      <title>Version 1.0.0</title>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>update test</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri Dec 22 15:26:00 EDT 2017</pubDate>
+      <enclosure url="https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/browse/archive/1.0.0.zip" type="application/octet-stream" sparkle:version="1.0.0"/>
+    </item>
+    <item>
+      <title>Version 0.0.2</title>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>update test</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri Dec 22 15:26:00 EDT 2017</pubDate>
+      <enclosure url="https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/browse/archive/0.2.zip" type="application/octet-stream" sparkle:version="0.0.2"/>
+    </item>
+    <item>
+      <title>Version 0.1</title>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>Initial commit</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri Dec 22 15:00:00 EDT 2017</pubDate>
+      <enclosure url="https://bitbucket.atlas.philips.com/projects/DLSUIT/repos/sdls-color-plugin/browse/archive/0.1.zip" type="application/octet-stream" sparkle:version="0.0.1"/>
+    </item>
+  </channel>
+</rss>
